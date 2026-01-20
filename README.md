@@ -1,5 +1,5 @@
 # 💫 About Me:
-☁️ Cloud Engineer<br>🛠️ Kubernetes, Devops, Jenkins, Terraform<br>📚 AWS<br>
+☁️ Cloud Devops Engineer<br>🛠️ Kubernetes, Devops, Jenkins, Terraform<br>📚 AWS<br>
 
 
 ## 🌐 Socials:
